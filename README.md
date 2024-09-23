@@ -1,3 +1,4 @@
+#sudo su 
 eth-ledger-bridge-keyring [![CircleCI](https://circleci.com/gh/MetaMask/eth-ledger-bridge-keyring.svg?style=svg)](https://circleci.com/gh/MetaMask/eth-ledger-bridge-keyring)
 ==================
 
